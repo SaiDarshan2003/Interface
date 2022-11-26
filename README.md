@@ -81,9 +81,9 @@ namespace inter_concept
 
 
 ## Output:
-Deposit
+#### Deposit
 ![output](outdep.png)
-Withdrawl
+#### Withdrawl
 ![output](outwith.png)
 
 ## Result:
