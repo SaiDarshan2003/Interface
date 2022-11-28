@@ -53,9 +53,6 @@ namespace inter_concept
                     Console.WriteLine("Balance");
                     obj.withdrwal(amount);
                 }
-            }
-        }
-    }
 }
 ```
 ## Output:
