@@ -1,5 +1,5 @@
-# Interface
-## Aim:
+## Interface
+### Aim:
 To Develop a small bank application by declaring deposit() and withdrawal() as abstract methods in the interface. Get the choice from the user whether to perform withdrawal or deposit operation. After the operation completes, display the balance amount.
 ## Algorithm:
 ### Step 1:Create an Interface.
@@ -53,7 +53,6 @@ namespace inter_concept
                     Console.WriteLine("Balance");
                     obj.withdrwal(amount);
                 }
-}
 ```
 ## Output:
 ![output](outdep.png)
