@@ -67,7 +67,7 @@ namespace inter_concept
 
 ```
 ## Output:
-![output](outdep.png
+![output](outdep.png)
 ![output](outwith.png)
 ## Result:
 C# program to develop a bank application using interface is implemented successfully.
